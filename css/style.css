@@ -1,0 +1,22 @@
+body{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#loginFormWrapper{
+  background-color: #845942;
+  color: white;
+}
+.columna{
+    background:#C67927;
+    width: 200px;
+    margin:10px;
+}
+#supercolumna.columna{
+    background:green;
+}
+#wrapper{
+margin: 0 auto;
+width:960px;
+}
