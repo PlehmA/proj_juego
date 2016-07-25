@@ -5,10 +5,16 @@
     <title>-=Orchish=-</title>
   </head>
   <body>
-    <h1></h1>
-    <h2></h2>
-
-
+    <h1>Orchish</h1>
+    <h2>¡Mundo orco!</h2>
+    <nav>
+      <ul>
+        <li>Inicio</li>
+        <li>Registrate</li>
+        <li>Imagenes</li>
+        <li>Quien soy</li>
+      </ul>
+    </nav>
     <?php
 
 
