@@ -9,10 +9,10 @@
     <h2>¡Mundo orco!</h2>
     <nav>
       <ul>
-        <li>Inicio</li>
-        <li>Registrate</li>
-        <li>Imagenes</li>
-        <li>Quien soy</li>
+        <li><a href="#">Inicio</a></li>
+        <li><a href="#">Registrate</a></li>
+        <li><a href="#">Imagenes</a></li>
+        <li><a href="#">Quien soy</a></li>
       </ul>
     </nav>
     <?php
